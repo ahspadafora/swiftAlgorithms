@@ -4,5 +4,6 @@
         <page name='insertionSort'/>
         <page name='selectionSort'/>
         <page name='bubbleSort'/>
+        <page name='mergeSort'/>
     </pages>
 </playground>
