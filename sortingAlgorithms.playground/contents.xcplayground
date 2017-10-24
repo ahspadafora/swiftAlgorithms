@@ -3,5 +3,6 @@
     <pages>
         <page name='insertionSort'/>
         <page name='selectionSort'/>
+        <page name='bubbleSort'/>
     </pages>
 </playground>
