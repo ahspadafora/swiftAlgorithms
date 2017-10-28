@@ -3,6 +3,7 @@
 import Foundation
 
 func mergeSort(arr: [Int]) -> [Int] {
+    
     func merge(leftArr: [Int], rightArr: [Int]) -> [Int] {
         var lpointer = 0
         var rpointer = 0

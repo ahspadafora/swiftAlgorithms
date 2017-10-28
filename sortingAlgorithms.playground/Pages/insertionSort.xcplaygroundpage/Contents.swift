@@ -19,3 +19,4 @@ func insertionSort(_ arr: [Int]) -> [Int] {
 }
 
 print(insertionSort([5,2,1]))
+
