@@ -6,5 +6,6 @@
         <page name='bubbleSort'/>
         <page name='mergeSort'/>
         <page name='binarySearch'/>
+        <page name='countingSort'/>
     </pages>
 </playground>
